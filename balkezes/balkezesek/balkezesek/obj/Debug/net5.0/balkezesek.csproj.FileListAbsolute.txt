@@ -1,0 +1,16 @@
+J:\C_sharp\C#halado_2felev\balkezes\balkezesek\balkezesek\obj\Debug\net5.0\balkezesek.csproj.AssemblyReference.cache
+J:\C_sharp\C#halado_2felev\balkezes\balkezesek\balkezesek\obj\Debug\net5.0\balkezesek.GeneratedMSBuildEditorConfig.editorconfig
+J:\C_sharp\C#halado_2felev\balkezes\balkezesek\balkezesek\obj\Debug\net5.0\balkezesek.AssemblyInfoInputs.cache
+J:\C_sharp\C#halado_2felev\balkezes\balkezesek\balkezesek\obj\Debug\net5.0\balkezesek.AssemblyInfo.cs
+J:\C_sharp\C#halado_2felev\balkezes\balkezesek\balkezesek\obj\Debug\net5.0\balkezesek.csproj.CoreCompileInputs.cache
+J:\C_sharp\C#halado_2felev\balkezes\balkezesek\balkezesek\bin\Debug\net5.0\balkezesek.exe
+J:\C_sharp\C#halado_2felev\balkezes\balkezesek\balkezesek\bin\Debug\net5.0\balkezesek.deps.json
+J:\C_sharp\C#halado_2felev\balkezes\balkezesek\balkezesek\bin\Debug\net5.0\balkezesek.runtimeconfig.json
+J:\C_sharp\C#halado_2felev\balkezes\balkezesek\balkezesek\bin\Debug\net5.0\balkezesek.runtimeconfig.dev.json
+J:\C_sharp\C#halado_2felev\balkezes\balkezesek\balkezesek\bin\Debug\net5.0\balkezesek.dll
+J:\C_sharp\C#halado_2felev\balkezes\balkezesek\balkezesek\bin\Debug\net5.0\ref\balkezesek.dll
+J:\C_sharp\C#halado_2felev\balkezes\balkezesek\balkezesek\bin\Debug\net5.0\balkezesek.pdb
+J:\C_sharp\C#halado_2felev\balkezes\balkezesek\balkezesek\obj\Debug\net5.0\balkezesek.dll
+J:\C_sharp\C#halado_2felev\balkezes\balkezesek\balkezesek\obj\Debug\net5.0\ref\balkezesek.dll
+J:\C_sharp\C#halado_2felev\balkezes\balkezesek\balkezesek\obj\Debug\net5.0\balkezesek.pdb
+J:\C_sharp\C#halado_2felev\balkezes\balkezesek\balkezesek\obj\Debug\net5.0\balkezesek.genruntimeconfig.cache
